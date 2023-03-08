@@ -1,0 +1,22 @@
+[
+  {
+    "title": "A",
+    "items": ["Apple", "Apricot", "Avocado"]
+  },
+  {
+    "title": "B",
+    "items": ["Banana", "Blueberry", "Blackberry"]
+  },
+  {
+    "title": "C",
+    "items": ["Cherry", "Coconut", "Cranberry", "Cantaloupe"]
+  },
+  {
+    "title": "D",
+    "items": ["Date", "Dragonfruit", "Durian"]
+  },
+  {
+    "title": "E",
+    "items": ["Elderberry"]
+  }
+]
